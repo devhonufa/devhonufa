@@ -8,7 +8,7 @@ Hi....🙋‍♀️there, My name is Honufa Khatun😊.I want to work on GitHub 
 ➡️ I’m looking to collaborate on GitHub <br>
 ➡️ Ask me about Web Developer 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 <h3 align="left">Connect with me:</h3>
