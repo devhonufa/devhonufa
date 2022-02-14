@@ -11,8 +11,6 @@ Hi....🙋‍♀️there, My name is Honufa Khatun😊.I want to work on GitHub 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonufa)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhonufa&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/devhonufa)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devhonufa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devhonufa" height="30" width="40" /></a>
