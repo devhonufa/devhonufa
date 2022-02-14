@@ -8,10 +8,10 @@ Hi....🙋‍♀️there, My name is Honufa Khatun😊.I want to work on GitHub 
 ➡️ I’m looking to collaborate on GitHub <br>
 ➡️ Ask me about Web Developer 
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhonufa)](https://github.com/anuraghazra/github-readme-stats) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devhonufa&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/devhonufa)  [![right Langs](https://github-readme-stats.vercel.app/api/right-langs/?username=devhonufa)](https://github.com/anuraghazra/github-readme-stats)
-
+![Profile views](https://gpvc.arturio.dev/devhonufa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
