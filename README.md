@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![image](https://user-images.githubusercontent.com/94119177/153881709-20c195eb-f37a-4199-a79d-66cfba557713.png)
 
 #### Hi there 👋, My Name is Honufa Khatun
 
