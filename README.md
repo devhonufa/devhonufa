@@ -4,7 +4,7 @@
 
 Hi....🙋‍♀️there, My name is Honufa Khatun😊.I want to work on GitHub with you and I made this project just for fun and work😊.
 
-➡️ I’m currently learning Bootstrap <br>
+➡️ I’m currently learning Javascript <br>
 ➡️ I’m looking to collaborate on GitHub <br>
 ➡️ Ask me about Web Developer 
   
